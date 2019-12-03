@@ -1,0 +1,9 @@
+C:\Users\Eduardo\source\repos\Extrabalho4\Extrabalho4\bin\Debug\Extrabalho4.exe.config
+C:\Users\Eduardo\source\repos\Extrabalho4\Extrabalho4\bin\Debug\Extrabalho4.exe
+C:\Users\Eduardo\source\repos\Extrabalho4\Extrabalho4\bin\Debug\Extrabalho4.pdb
+C:\Users\Eduardo\source\repos\Extrabalho4\Extrabalho4\obj\Debug\Extrabalho4.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Extrabalho4\Extrabalho4\obj\Debug\Extrabalho4.Form1.resources
+C:\Users\Eduardo\source\repos\Extrabalho4\Extrabalho4\obj\Debug\Extrabalho4.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\Extrabalho4\Extrabalho4\obj\Debug\Extrabalho4.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\Extrabalho4\Extrabalho4\obj\Debug\Extrabalho4.exe
+C:\Users\Eduardo\source\repos\Extrabalho4\Extrabalho4\obj\Debug\Extrabalho4.pdb

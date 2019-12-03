@@ -1,0 +1,11 @@
+C:\Users\Eduardo\source\repos\Extrabalho2\Extrabalho2\bin\Debug\netcoreapp3.0\Extrabalho2.exe
+C:\Users\Eduardo\source\repos\Extrabalho2\Extrabalho2\bin\Debug\netcoreapp3.0\Extrabalho2.deps.json
+C:\Users\Eduardo\source\repos\Extrabalho2\Extrabalho2\bin\Debug\netcoreapp3.0\Extrabalho2.runtimeconfig.json
+C:\Users\Eduardo\source\repos\Extrabalho2\Extrabalho2\bin\Debug\netcoreapp3.0\Extrabalho2.runtimeconfig.dev.json
+C:\Users\Eduardo\source\repos\Extrabalho2\Extrabalho2\bin\Debug\netcoreapp3.0\Extrabalho2.dll
+C:\Users\Eduardo\source\repos\Extrabalho2\Extrabalho2\bin\Debug\netcoreapp3.0\Extrabalho2.pdb
+C:\Users\Eduardo\source\repos\Extrabalho2\Extrabalho2\obj\Debug\netcoreapp3.0\Extrabalho2.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Extrabalho2\Extrabalho2\obj\Debug\netcoreapp3.0\Extrabalho2.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\Extrabalho2\Extrabalho2\obj\Debug\netcoreapp3.0\Extrabalho2.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\Extrabalho2\Extrabalho2\obj\Debug\netcoreapp3.0\Extrabalho2.dll
+C:\Users\Eduardo\source\repos\Extrabalho2\Extrabalho2\obj\Debug\netcoreapp3.0\Extrabalho2.pdb
